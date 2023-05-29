@@ -34,6 +34,8 @@ class Program
         int x = 10;
         int b = 10;
         int y = 10;
+        int d = 10;
+        Console.WriteLine(d);
         Console.WriteLine(y);
         Console.WriteLine(b);
         Console.WriteLine(x);

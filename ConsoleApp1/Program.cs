@@ -32,6 +32,8 @@ class Program
     static void Main()
     {
         int x = 10;
+        int b = 10;
+        Console.WriteLine(b);
         Console.WriteLine(x);
     }   
 }
